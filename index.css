@@ -1,0 +1,12 @@
+@font-face {
+  font-family: sfpro;
+  src: url(./assets/SFPRODISPLAYREGULAR.OTF);
+}
+*{
+  font-family: sfpro;
+}
+@import "tailwindcss";
+
+
+@source "../node_modules/flowbite";
+@plugin "flowbite/plugin";
