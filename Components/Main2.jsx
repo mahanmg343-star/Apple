@@ -1,14 +1,14 @@
 
 
-import sp from '../assets/smainp.jpg'
-import fp from '../assets/fmainp.jpg'
-import tp from '../assets/thmainp.jpg'
-import ff from '../assets/ffmainp.jpg'
-import fff from '../assets/fffmainp.jpg'
-import ss from '../assets/ssmainp.jpg'
-import sss from '../assets/sssmainp.jpg'
-import e from '../assets/emainp.jpg'
-import n from '../assets/nmainp.jpg'
+import sp from '/src/assets/smainp.jpg'
+import fp from '/src/assets/fmainp.jpg'
+import tp from '/src/assets/thmainp.jpg'
+import ff from '/src/assets/ffmainp.jpg'
+import fff from '/src/assets/fffmainp.jpg'
+import ss from '/src/assets/ssmainp.jpg'
+import sss from '/src/assets/sssmainp.jpg'
+import e from '/src/assets/emainp.jpg'
+import n from '/src/assets/nmainp.jpg'
 
 function main() {
   return (
